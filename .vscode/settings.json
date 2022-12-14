@@ -1,0 +1,16 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "/overrides.json"
+      ],
+      "url": "./schemas/overrides.schema.json"
+    },
+    {
+      "fileMatch": [
+        "/schedule.json"
+      ],
+      "url": "./schemas/schedule.schema.json"
+    }
+  ]
+}
