@@ -6,7 +6,7 @@
   "type": "object",
   "patternProperties": {
     "([1-9]|[12][0-9]|3[01])-([1-9]|1[0-2])-\\d{4}": {
-      "description": "A specific override for a day",
+      "description": "A specific override for a day (DD-MM-YYYY)",
       "type": "array",
       "items": {
         "type": "object",
