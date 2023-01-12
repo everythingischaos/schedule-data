@@ -157,18 +157,18 @@
     },
     {
       "name": "Rally",
-      "start": "11:05",
-      "end": "12:05"
-    },
-    {
-      "name": "Break",
       "start": "11:11",
       "end": "11:45"
     },
     {
-      "name": "5",
+      "name": "Break",
       "start": "11:45",
       "end": "12:00"
+    },
+    {
+      "name": "Rally",
+      "start": "12:05",
+      "end": "13:30"
     },
     {
       "name": "Lunch",
