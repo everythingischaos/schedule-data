@@ -361,5 +361,101 @@
       "start": "11:55",
       "end": "13:55"
     }
+  ],
+  "CAASPP_19-3": [
+    {
+      "name": "Breakfast (Union)",
+      "start": "8:30",
+      "end": "9:20"
+    },
+    {
+      "name": "English Part 1",
+      "start": "9:40",
+      "end": "10:50"
+    },
+    {
+      "name": "Break",
+      "start": "10:55",
+      "end": "11:10"
+    },
+    {
+      "name": "English Part 2",
+      "start": "11:15",
+      "end": "13:35"
+    },
+    {
+      "name": "Lunch",
+      "start": "13:35",
+      "end": "14:05"
+    },
+    {
+      "name": "6",
+      "start": "14:10",
+      "end": "15:40"
+    }
+  ],
+  "CAASPP_20-3": [
+    {
+      "name": "Breakfast (Union)",
+      "start": "8:30",
+      "end": "9:20"
+    },
+    {
+      "name": "Math Part 1",
+      "start": "9:40",
+      "end": "10:50"
+    },
+    {
+      "name": "Break",
+      "start": "10:55",
+      "end": "11:10"
+    },
+    {
+      "name": "Math Part 2",
+      "start": "11:15",
+      "end": "13:35"
+    },
+    {
+      "name": "Lunch",
+      "start": "13:35",
+      "end": "14:05"
+    },
+    {
+      "name": "7",
+      "start": "14:10",
+      "end": "15:40"
+    }
+  ],
+  "CAASPP_21-3": [
+    {
+      "name": "1",
+      "start": "8:30",
+      "end": "9:20"
+    },
+    {
+      "name": "2",
+      "start": "9:25",
+      "end": "10:55"
+    },
+    {
+      "name": "Break",
+      "start": "10:55",
+      "end": "11:10"
+    },
+    {
+      "name": "Science",
+      "start": "11:15",
+      "end": "13:35"
+    },
+    {
+      "name": "Lunch",
+      "start": "13:35",
+      "end": "14:05"
+    },
+    {
+      "name": "6",
+      "start": "14:10",
+      "end": "15:40"
+    }
   ]
 }
