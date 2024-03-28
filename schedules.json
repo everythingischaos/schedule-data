@@ -457,5 +457,47 @@
       "start": "14:10",
       "end": "15:40"
     }
+  ],
+  "CAREER": [
+    {
+      "name": "1",
+      "start": "8:30",
+      "end": "9:20"
+    },
+    {
+      "name": "2",
+      "start": "9:25",
+      "end": "10:50"
+    },
+    {
+      "name": "Career Session 1",
+      "start": "10:55",
+      "end": "11:25"
+    },
+    {
+      "name": "Career Session 2",
+      "start": "11:30",
+      "end": "12:00"
+    },
+    {
+      "name": "Break",
+      "start": "12:00",
+      "end": "12:15"
+    },
+    {
+      "name": "4",
+      "start": "12:15",
+      "end": "13:40"
+    },
+    {
+      "name": "Lunch",
+      "start": "13:40",
+      "end": "14:10"
+    },
+    {
+      "name": "6",
+      "start": "14:15",
+      "end": "15:40"
+    }
   ]
 }
