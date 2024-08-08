@@ -1,5 +1,5 @@
 {
-  "A": [
+  "LA": [
     {
       "name": "1",
       "start": "8:30",
@@ -46,7 +46,7 @@
       "end": "15:40"
     }
   ],
-  "E": [
+  "TE": [
     {
       "name": "1",
       "start": "8:30",
@@ -127,7 +127,7 @@
       "end": "10:45"
     },
     {
-      "name": "Rally",
+      "name": "Short Assembly",
       "start": "10:50",
       "end": "11:25"
     },
@@ -152,7 +152,7 @@
       "end": "14:50"
     }
   ],
-  "LA": [
+  "OLA": [
     {
       "name": "1",
       "start": "8:30",
@@ -164,7 +164,7 @@
       "end": "10:30"
     },
     {
-      "name": "Assembly",
+      "name": "Long Assembly",
       "start": "10:35",
       "end": "11:35"
     },
@@ -189,44 +189,6 @@
       "end": "14:50"
     }
   ],
-  "NS": "none",
-  "HoCo": [
-    {
-      "name": "1",
-      "start": "8:30",
-      "end": "9:10"
-    },
-    {
-      "name": "3",
-      "start": "9:15",
-      "end": "9:55"
-    },
-    {
-      "name": "HoCo Rally",
-      "start": "10:00",
-      "end": "11:00"
-    },
-    {
-      "name": "Break",
-      "start": "11:00",
-      "end": "11:15"
-    },
-    {
-      "name": "5",
-      "start": "11:20",
-      "end": "12:00"
-    },
-    {
-      "name": "Lunch",
-      "start": "12:00",
-      "end": "12:30"
-    },
-    {
-      "name": "7",
-      "start": "12:35",
-      "end": "13:15"
-    }
-  ],
   "ELA": [
     {
       "name": "1",
@@ -239,7 +201,7 @@
       "end": "10:50"
     },
     {
-      "name": "Assembly",
+      "name": "Long Assembly",
       "start": "10:55",
       "end": "11:55"
     },
@@ -264,239 +226,56 @@
       "end": "15:40"
     }
   ],
-  "F1/O": [
+  "NS": "none",
+  "ALA": [
     {
-      "name": "1st FINAL",
+      "name": "1",
       "start": "8:30",
-      "end": "10:30"
+      "end": "9:15"
+    },
+    {
+      "name": "2",
+      "start": "9:20",
+      "end": "10:05"
+    },
+    {
+      "name": "Long Assembly",
+      "start": "10:10",
+      "end": "10:50"
     },
     {
       "name": "Break",
-      "start": "10:30",
-      "end": "10:45"
+      "start": "10:50",
+      "end": "11:05"
     },
     {
       "name": "3",
-      "start": "10:50",
-      "end": "11:50"
-    },
-    {
-      "name": "5",
-      "start": "11:55",
-      "end": "13:05"
-    },
-    {
-      "name": "Lunch",
-      "start": "13:05",
-      "end": "13:35"
-    },
-    {
-      "name": "7",
-      "start": "13:40",
-      "end": "14:50"
-    }
-  ],
-  "F2+3": [
-    {
-      "name": "2nd FINAL",
-      "start": "8:30",
-      "end": "10:30"
-    },
-    {
-      "name": "Break",
-      "start": "10:30",
-      "end": "11:00"
-    },
-    {
-      "name": "Tutorial",
-      "start": "11:05",
-      "end": "11:50"
-    },
-    {
-      "name": "3rd FINAL",
-      "start": "11:55",
-      "end": "13:55"
-    }
-  ],
-  "F5+7": [
-    {
-      "name": "5th FINAL",
-      "start": "8:30",
-      "end": "10:30"
-    },
-    {
-      "name": "Break",
-      "start": "10:30",
-      "end": "11:00"
-    },
-    {
-      "name": "Tutorial",
-      "start": "11:05",
-      "end": "11:50"
-    },
-    {
-      "name": "7th FINAL",
-      "start": "11:55",
-      "end": "13:55"
-    }
-  ],
-  "F4+6": [
-    {
-      "name": "4th FINAL",
-      "start": "8:30",
-      "end": "10:30"
-    },
-    {
-      "name": "Break",
-      "start": "10:30",
-      "end": "11:00"
-    },
-    {
-      "name": "Tutorial",
-      "start": "11:05",
-      "end": "11:50"
-    },
-    {
-      "name": "6th FINAL",
-      "start": "11:55",
-      "end": "13:55"
-    }
-  ],
-  "CAASPP_19-3": [
-    {
-      "name": "Breakfast (Union)",
-      "start": "8:30",
-      "end": "9:20"
-    },
-    {
-      "name": "English Part 1",
-      "start": "9:40",
-      "end": "10:50"
-    },
-    {
-      "name": "Break",
-      "start": "10:55",
-      "end": "11:10"
-    },
-    {
-      "name": "English Part 2",
-      "start": "11:15",
-      "end": "13:35"
-    },
-    {
-      "name": "Lunch",
-      "start": "13:35",
-      "end": "14:05"
-    },
-    {
-      "name": "6",
-      "start": "14:10",
-      "end": "15:40"
-    }
-  ],
-  "CAASPP_20-3": [
-    {
-      "name": "Breakfast (Union)",
-      "start": "8:30",
-      "end": "9:20"
-    },
-    {
-      "name": "Math Part 1",
-      "start": "9:40",
-      "end": "10:50"
-    },
-    {
-      "name": "Break",
-      "start": "10:55",
-      "end": "11:10"
-    },
-    {
-      "name": "Math Part 2",
-      "start": "11:15",
-      "end": "13:35"
-    },
-    {
-      "name": "Lunch",
-      "start": "13:35",
-      "end": "14:05"
-    },
-    {
-      "name": "7",
-      "start": "14:10",
-      "end": "15:40"
-    }
-  ],
-  "CAASPP_21-3": [
-    {
-      "name": "1",
-      "start": "8:30",
-      "end": "9:20"
-    },
-    {
-      "name": "2",
-      "start": "9:25",
-      "end": "10:55"
-    },
-    {
-      "name": "Break",
-      "start": "10:55",
-      "end": "11:10"
-    },
-    {
-      "name": "Science",
-      "start": "11:15",
-      "end": "13:35"
-    },
-    {
-      "name": "Lunch",
-      "start": "13:35",
-      "end": "14:05"
-    },
-    {
-      "name": "6",
-      "start": "14:10",
-      "end": "15:40"
-    }
-  ],
-  "CAREER": [
-    {
-      "name": "1",
-      "start": "8:30",
-      "end": "9:20"
-    },
-    {
-      "name": "2",
-      "start": "9:25",
-      "end": "10:50"
-    },
-    {
-      "name": "Career Session 1",
-      "start": "10:55",
-      "end": "11:25"
-    },
-    {
-      "name": "Career Session 2",
-      "start": "11:30",
-      "end": "12:00"
-    },
-    {
-      "name": "Break",
-      "start": "12:00",
-      "end": "12:15"
+      "start": "11:10",
+      "end": "11:55"
     },
     {
       "name": "4",
-      "start": "12:15",
-      "end": "13:40"
+      "start": "12:00",
+      "end": "12:45"
     },
     {
       "name": "Lunch",
-      "start": "13:40",
-      "end": "14:10"
+      "start": "12:45",
+      "end": "13:15"
+    },
+    {
+      "name": "5",
+      "start": "13:20",
+      "end": "14:05"
     },
     {
       "name": "6",
-      "start": "14:15",
+      "start": "14:10",
+      "end": "14:55"
+    },
+    {
+      "name": "7",
+      "start": "15:00",
       "end": "15:40"
     }
   ]
