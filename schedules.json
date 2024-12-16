@@ -278,5 +278,118 @@
       "start": "15:00",
       "end": "15:40"
     }
+  ],
+  "F1+A": [
+    {
+      "name": "1st FINAL",
+      "start": "8:30",
+      "end": "10:30"
+    },
+    {
+      "name": "Break",
+      "start": "10:30",
+      "end": "10:45"
+    },
+    {
+      "name": "2",
+      "start": "10:50",
+      "end": "11:30"
+    },
+    {
+      "name": "3",
+      "start": "11:35",
+      "end": "12:15"
+    },
+    {
+      "name": "4",
+      "start": "12:20",
+      "end": "13:00"
+    },
+    {
+      "name": "Lunch",
+      "start": "13:00",
+      "end": "13:30"
+    },
+    {
+      "name": "5",
+      "start": "13:35",
+      "end": "14:15"
+    },
+    {
+      "name": "6",
+      "start": "14:20",
+      "emd": "15:00"
+    },
+    {
+      "name": "7",
+      "start": "15:05",
+      "emd": "15:40"
+    }
+  ],
+  "F2+3": [
+    {
+      "name": "2nd FINAL",
+      "start": "8:30",
+      "end": "10:30"
+    },
+    {
+      "name": "Tutorial",
+      "start": "10:35",
+      "end": "11:15"
+    },
+    {
+      "name": "Lunch",
+      "start": "11:15",
+      "end": "11:45"
+    },
+    {
+      "name": "3rd FINAL",
+      "start": "11:50",
+      "end": "13:50"
+    }
+  ],
+  "F5+7": [
+    {
+      "name": "5th FINAL",
+      "start": "8:30",
+      "end": "10:30"
+    },
+    {
+      "name": "Tutorial",
+      "start": "10:35",
+      "end": "11:15"
+    },
+    {
+      "name": "Lunch",
+      "start": "11:15",
+      "end": "11:45"
+    },
+    {
+      "name": "7th FINAL",
+      "start": "11:50",
+      "end": "13:50"
+    }
+  ],
+  "F4+6": [
+    {
+      "name": "4th FINAL",
+      "start": "8:30",
+      "end": "10:30"
+    },
+    {
+      "name": "Tutorial",
+      "start": "10:35",
+      "end": "11:15"
+    },
+    {
+      "name": "Lunch",
+      "start": "11:15",
+      "end": "11:45"
+    },
+    {
+      "name": "6th FINAL",
+      "start": "11:50",
+      "end": "13:50"
+    }
   ]
 }
